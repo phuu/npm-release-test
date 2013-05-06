@@ -1,0 +1,12 @@
+{
+  "name": "npm-release-test",
+  "version": "0.0.13",
+  "description": "ERROR: No README.md file found!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": "",
+  "author": "",
+  "license": "BSD"
+}
