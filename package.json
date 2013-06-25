@@ -1,6 +1,7 @@
 {
   "name": "npm-release-test",
   "version": "0.5.0-7",
+  "private": true,
   "description": "ERROR: No README.md file found!",
   "main": "index.js",
   "scripts": {
